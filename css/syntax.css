@@ -1,6 +1,4 @@
-#main-content #sub-content p{ /* parent child grandchild */
+#main-content > p{   /* child combinator..
+ tylko dla dziecka nie dla wnuka    */
     color: red;
-}
-#main-content p{
-    color: green;
 }
