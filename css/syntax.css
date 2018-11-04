@@ -1,45 +1,7 @@
-/****************
-*
-Author: Łukasz AKA glenski2be7
-Date: 04.11.2018
-*
- ****************/
-
-h2{
-    font-size: 24px;
-}
-
-#content-header{
-    font-size: 18px;
-    color: red;
-}
 span{
-    display: block;
     color: blue;
 }
 
-.deck{
+span{
     color: red;
-}
-
-
-
-/* Style all P tags */
-p{
-    font-size: 12px;
-}
-
-#header p{
-    font-size: 24px;
-}
-
-/* Style all Links */
-a{
-    text-decoration: underline;
-    color: blue;
-}
-
-/* Style all header tags */
-h1{
-    font-size: 32px;
 }
