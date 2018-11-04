@@ -5,10 +5,28 @@ Date: 04.11.2018
 *
  ****************/
 
+h2{
+    font-size: 24px;
+}
+
+#content-header{
+    font-size: 18px;
+    color: red;
+}
+span{
+    display: block;
+    color: blue;
+}
+
+.deck{
+    color: red;
+}
+
+
+
 /* Style all P tags */
 p{
     font-size: 12px;
-    color: red;
 }
 
 #header p{
@@ -21,16 +39,7 @@ a{
     color: blue;
 }
 
-span{
-    text-transform: uppercase;
-}
-
 /* Style all header tags */
 h1{
     font-size: 32px;
-}
-
-div{
-    width: 100%;
-    background-color: grey;
 }
