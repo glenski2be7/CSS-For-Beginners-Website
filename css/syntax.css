@@ -1,21 +1,10 @@
-li:nth-child(1), li:nth-child(7){
-    font-weight: bold;
-}
+/* nieparzyste ODD */
 
-li:nth-child(even){
-    background: grey;
-}
+article:nth-of-type(odd){
+     background: grey;
+ }
 
-li:nth-child(odd){
-    background: pink;
-}
-
-
-
-li:nth-child(2n+1){
-    color: green;
-}
-
-li:nth-child(3n+1){
-    color: orange;
+/* po kolei wg wzoru od n=0 */
+article:nth-of-type(3n + 1){
+    background: yellow;
 }
