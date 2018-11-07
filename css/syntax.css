@@ -1,24 +1,7 @@
-/* ~ Wszystkie ktore zawieraja DECK */
-
-span[class~="deck"]{
-    color: purple;
-}
-
-div[id]{
-    background: grey;
-}
-
-a[title="Search engine"]{
+a:hover{
     color: red;
 }
 
-
-/* Konczace sie na PDF */
-a[href$="pdf"]{
-    color: green;
-}
-
-/* Zaczynajace sie na http */
-a[href^="http"]{
-    color: pink;
+#main-content:hover{
+    background: red;
 }
