@@ -1,8 +1,11 @@
-/* we dont want a space aftes article. */
-article.featured-content{
-    background: red;
+*{
+    margin: 0;
+        padding: 0;
+        color: black;
 }
 
-div.featured-content{
-    background: blue;
-}
+
+/* gwiazdka * przykrywa takze linki <a>
+
+ przykrywa standardowe formatowanie przeglądarek
+ ...*/
