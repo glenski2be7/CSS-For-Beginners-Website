@@ -1,9 +1,9 @@
 p{
-    font-size: 12px;
+    font-size: 14px;
     /*letter-spacing: 2px;*/
     letter-spacing: 0.2em; /* ile razy***/
 
     word-spacing:  2px;
-    line-height: 24px; /*   wysokośc całej linii z odstepem miedzy liniami* */
-
+    line-height: 2em; /*   wysokośc całej linii z odstepem miedzy liniami* */
+    margin-bottom: 32px;
 }
