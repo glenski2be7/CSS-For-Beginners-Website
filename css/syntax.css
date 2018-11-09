@@ -1,29 +1,4 @@
-article{
-    font-size: 16px;
+article h2, article p{
+    font-family: totallyAwesomeFont, hamFont, serif;
 }
 
-article h2{
-    font-size: 4em;  /******** To co było x4 czyli 16x4=64px */
-}
-
-article p{
-    font-size: 500%; /******** zmiana w stosunku do tego 16px */
-}
-
-/*********************
-
-
-
-h1{
-    font-size: 48px;
-}
-
-h2{
-    font-size: 32px;
-}
-
-p{
-    font-size: 16px;
-}
-
- */
