@@ -1,11 +1,29 @@
-*{
-    margin: 0;
-        padding: 0;
-        color: black;
+article{
+    font-size: 16px;
 }
 
+article h2{
+    font-size: 4em;  /******** To co było x4 czyli 16x4=64px */
+}
 
-/* gwiazdka * przykrywa takze linki <a>
+article p{
+    font-size: 500%; /******** zmiana w stosunku do tego 16px */
+}
 
- przykrywa standardowe formatowanie przeglądarek
- ...*/
+/*********************
+
+
+
+h1{
+    font-size: 48px;
+}
+
+h2{
+    font-size: 32px;
+}
+
+p{
+    font-size: 16px;
+}
+
+ */
